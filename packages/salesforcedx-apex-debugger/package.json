@@ -24,7 +24,7 @@
     "@types/async-lock": "0.0.20",
     "@types/chai": "4.3.3",
     "@types/jest": "^29.5.5",
-    "@types/mocha": "^5",
+    "@types/mocha": "^10",
     "@types/node": "^18.11.9",
     "@types/rimraf": "^3.0.2",
     "@types/sinon": "^2.3.7",
