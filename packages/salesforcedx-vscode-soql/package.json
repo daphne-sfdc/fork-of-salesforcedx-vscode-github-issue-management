@@ -49,7 +49,7 @@
     "@types/chai": "4.3.3",
     "@types/debounce": "^1.2.0",
     "@types/fs-extra": "^8.1.0",
-    "@types/mocha": "^5",
+    "@types/mocha": "^10",
     "@types/node": "^18.11.9",
     "@types/papaparse": "^5.2.3",
     "@types/sinon": "7.5.2",
